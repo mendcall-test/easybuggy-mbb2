@@ -5,6 +5,7 @@
     "projectToken": "",
     "baseBranches": ["master", "RamiDemo1"]
   },
+
   "scanSettingsSAST": {
     "enableScan": true,
     "enableRemediation": true,
